@@ -1,5 +1,9 @@
 # Multi-Agent Financial Analysis System
-A comprehensive financial analysis toolkit built with Google ADK that combines multiple specialized agents to provide in-depth stock analysis.
+A financial analysis toolkit built with Google ADK that combines multiple specialized agents to provide in-depth stock analysis.  It's not quite comprehensive yet in my mind.  But what I do like about Google ADK is the modularity.  So aside from improving on the prompt, you can spruce up the system by daisy-chain-ing more agents or dreaming up more tools which is something I intend to do in the future.   
+
+## Example Output
+
+![Financial Report Example](https://github.com/user-attachments/assets/5fabdde6-d80b-4959-b805-9c74f456dadd)
 
 ## Project Structure
 ```
